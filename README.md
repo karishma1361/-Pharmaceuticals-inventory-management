@@ -1,6 +1,7 @@
-# -Pharmaceuticals-inventory-management
+# Pharmaceuticals Inventory Management
 
 [Pharma PresentatioN_PPT.pdf](https://github.com/user-attachments/files/17072289/Pharma.PresentatioN_PPT.pdf)
+
  Pharmaceuticals inventory management
  
  **Client:** Leading Pharmaceuticals company 
